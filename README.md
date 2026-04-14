@@ -53,7 +53,7 @@ test/           → Contract tests
 docs/           → Architecture & demo docs  
 🧪 Running Locally
 1. Clone the repo
-git clone https://github.com/your-username/auxolock.git
+git clone https://github.com/Debojyoti-30/AuxoLock-BuildGames.git
 cd auxolock
 2. Setup Contracts
 cd contracts
